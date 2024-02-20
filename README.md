@@ -1,6 +1,6 @@
 # UPBOX
 
-This package contains the UPBOX UI Project, which aims to create a stylish look based on the customization with the help of industry's best stylists and latest trends for the User.
+This package contains the UPBOX UI Project, which aims to create a stylish look based on customization with the help of the industry's best stylists and the latest trends for the User.
 
 Using HTML5, CSS3, and the SASS preprocessor.
 
@@ -16,7 +16,7 @@ Using HTML5, CSS3, and the SASS preprocessor.
 1. **Clone this repository:**
 
    ```bash
-   git clone https://github.com/your-username/upbox.git
+   git clone [https://github.com/vishwakarma251/upbox]
    cd upbox
 
    ```
