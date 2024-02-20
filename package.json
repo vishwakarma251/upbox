@@ -1,0 +1,21 @@
+{
+  "name": "upbox",
+  "version": "1.0.0",
+  "description": "This package is for UPBOX UI Project",
+  "main": "index.html",
+  "scripts": {
+    "clean": "rimraf dist",
+    "sass-dev": "sass --watch --update --style=expanded assets/scss:assets/css",
+    "sass-prod": "sass --no-source-map --style=compressed assets/scss:assets/css",
+    "build": "npm run clean && npm run sass-prod"
+  },
+  "author": "Ram",
+  "license": "ISC",
+  "devDependencies": {
+    "rimraf": "^5.0.5",
+    "sass": "^1.70.0"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.2"
+  }
+}
